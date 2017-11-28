@@ -1,1 +1,1 @@
-http://www.techbeamers.com/python-strings-functions-and-examples/
+http://www.techbeamers.com/python-file-handling-tutorial-beginners/
