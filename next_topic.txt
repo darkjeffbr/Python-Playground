@@ -1,1 +1,1 @@
-http://www.techbeamers.com/python-file-handling-tutorial-beginners/
+http://www.techbeamers.com/python-tutorial-essentials-of-python-socket-programming/
